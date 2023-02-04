@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+body {
+  font-family: "Patrick Hand", cursive;
+}
+.container {
+  width: 100%;
+  max-width: 1140px;
+  padding: 0 15px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.d-flex {
+  display: flex;
+}
+.just-center {
+  display: flex;
+  justify-content: center;
+}
